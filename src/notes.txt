@@ -1,0 +1,11 @@
+AccountManager.java (Driver)
+
+We will need to create a user menu
+The user menu will have to loop
+
+There are 4 different options
+
+While loop?
+Switch Statement?  The switch will have case for each menu option??
+
+1)Lets get a loop working that includes a switch statement with user options in it.
